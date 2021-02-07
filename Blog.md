@@ -21,7 +21,7 @@
   </p>
   <hr>
   <h2>Inspiration</h2>
-  <td> <img src="images/chie.jpg" width="500" alt=" video editor" <br>
+  <td> <img src="images/chie.jpg" width="350" alt=" video editor" <br>
 
     <p>
       We all need a little inspiration every once in a while.
@@ -38,7 +38,9 @@
       You can edit on a phone, a PC, or a laptop. Editing will depend on what kind of projects you'll be working on<br>
       and the level of its complexity. Each editing software has something different to offer,<br>
       so I’ve all included the info you need to know, so you can choose the one that’s best for you.<br>
+
     <h2>Software</h2>
+    <center></canter><img src="images/software.jpg" width="450" alt="software images"></center> <br><br>
     <h4>Premiere Pro</h4>
     For me, this is the best video editing software overall (sorry, finalcut users)<br>
     It’s available for both Mac and PC users and it offers everything you need for professional video editing.<br>
@@ -73,6 +75,7 @@
     </p>
 
     <h2>Basic Camera Gears</h2>
+      <center></canter><img src="images/gears.jpg" width="350" alt="camera gears image"></center> <br><br>
     Before you splurge on camera gears, make sure you really want to do this. Or use what you have at the <br />
     moment-your phone. Cameras are expensive and lenses are more expensive, and drones cost more <br />
     than your groceries! Use what you have and build on the skills first then your gears. <br />
@@ -87,6 +90,12 @@
     <li>Canon</li>
     <li>Sony</li>
     <li>Panasonic</li>
+<br><br><br><br><br>
+    <form action="mailto:rytchie.hernandez@gmail.com" method="post" enctype="text/plain">
+      <h3>Would you like to sign up to our mailing list?</h3>
+      <input type="checkbox" name="">
+  <input type="submit">
+
 </center>
 </body>
 </html>

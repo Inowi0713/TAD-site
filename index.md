@@ -76,13 +76,13 @@
         <td>⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>editor</td>
+        <td>Editor</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
     </table>
 
-    <form class="" action="index.html" method="post">
-      <h3>Would you like to sign up to our mail list?</h3>
+  <form action="mailto:rytchie.hernandez@gmail.com" method="post" enctype="text/plain">
+      <h3>Would you like to sign up to our mailing list?</h3>
       <input type="checkbox" name="">
   <input type="submit">
     </form>

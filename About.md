@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>About</title>
-  <h1><strong><a href="index.html">TAD</a></strong></h1>
 </head>
 <center>
-
   <body>
+  <h1><strong><a href="index.html">TAD</a></strong></h1>
   <h1>Who is the Annoying Daddy?</h1>
   <p>
     Hi, I am Rytchie- your annoying daddy. I created this blog because I wanted to share my passion for<em><strong><a href="https://www.facebook.com/RytHeTv">videography.</a></strong></em>
